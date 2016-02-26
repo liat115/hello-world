@@ -1,2 +1,3 @@
 # hello-world
-lorem ipsum yay
+lorem ipsum
+something something about myself
